@@ -6,3 +6,9 @@ Bug reports and feature requests to the template  should be [submitted via GitHu
 
 Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
 
+---
+layout: default
+title: "Home"
+permalink: /
+---
+Welcome! I am **Arpita Howlader**, an Assistant Professor and researcher passionate about advancing technology for societal good. Explore my work on AI, IoT, and Wireless Networks.
