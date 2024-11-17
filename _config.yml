@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Arpita Howlader"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     :  "Arpita Howlader"
+description              :  "Assistant Professor "
+URL                      : "https://AH.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : " " # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : " Arpita Howlader"
+  pronouns         : "she/her"  
+  bio              : "Researcher in AI, HCI, IoT, and Wireless Sensor Networks"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Patuakhali Science and Technology University"
+  URI              : "https://pstu.ac.bd/"
   email            : "none@example.org" 
 
   # Academic websites
